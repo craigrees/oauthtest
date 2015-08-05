@@ -1,0 +1,25 @@
+{
+    "id": "46044545-b4e9-852c-72ad-b8f9b08aca2f",
+    "name": "Ephemeral Recommendation",
+    "background": "light-grey",
+    "frames": [
+        {
+            "blurb": "Do ephemeral variables such has weather, stock market, etc.. affect viewing habits?",
+            "fullscreen": false,
+            "transition": "left",
+            "media": null
+        },
+        {
+            "blurb": "Horror has significantly less viewers in times of extreme temperature as shown below:",
+            "fullscreen": false,
+            "transition": "left",
+            "media": "89f28f99-afb1-0b8f-41c8-f71e74fc7044"
+        },
+        {
+            "blurb": "But interestingly comedy has significantly more viewers in times of extreme temperature as shown below:",
+            "fullscreen": false,
+            "transition": "left",
+            "media": "f567bb24-84fb-f956-cb89-2f76e0b38bf8"
+        }
+    ]
+}

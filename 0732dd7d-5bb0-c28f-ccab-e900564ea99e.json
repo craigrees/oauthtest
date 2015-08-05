@@ -1,0 +1,20 @@
+{
+    "id": "0732dd7d-5bb0-c28f-ccab-e900564ea99e",
+    "name": "ASAP Audient.ly",
+    "background": "dark-grey",
+    "frames": [
+        {
+            "blurb": "ASAP Audiently is a Realtime actionable sentiment analysis tool for chatter.",
+            "fullscreen": false,
+            "transition": "left",
+            "media": "fb73b710-4e0d-49f3-4de3-9de2b889ec4d"
+        },
+        {
+            "blurb": "Rapidly see and understand the most pressing issues that your business and customers face at any given time",
+            "fullscreen": false,
+            "transition": "left",
+            "media": "c9da98ae-664c-e6a9-6ec2-e2d1ba466c7a"
+        }
+    ],
+    "logo": "94fcf6a8-152c-64c4-ea0b-ae72615f00d0"
+}
