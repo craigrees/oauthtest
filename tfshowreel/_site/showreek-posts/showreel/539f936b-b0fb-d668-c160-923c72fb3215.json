@@ -1,0 +1,25 @@
+{
+    "id": "539f936b-b0fb-d668-c160-923c72fb3215",
+    "name": "The Brain",
+    "background": "black",
+    "frames": [
+        {
+            "blurb": "In house web proxy and API management tool. Current vendors are expensive, and package kitchen sink.",
+            "fullscreen": false,
+            "transition": "left",
+            "media": "62a861f7-bd46-9307-4b14-e30ba561d424"
+        },
+        {
+            "blurb": "Capture Performance data of all web services behind the brain",
+            "fullscreen": false,
+            "transition": "left",
+            "media": "2cf7167f-70f1-73be-ceb6-b60b73986d65"
+        },
+        {
+            "blurb": "Drill down to analytical details for A/B testing and systems integration",
+            "fullscreen": false,
+            "transition": "left",
+            "media": "bf333802-d176-541c-05a8-755463a6559b"
+        }
+    ]
+}

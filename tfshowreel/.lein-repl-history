@@ -1,0 +1,24 @@
+(def GET)
+(doc GET)
+(doc POST)
+[clj-http.client :as client]
+(ns showreel.handler
+  (:use ring.util.response)
+  (:require [compojure.core :refer :all]
+            [compojure.route :as route]
+            [ring.middleware.json :as rjson]
+            [clj-http.client :as client]
+            [clojure.data.json :as json]
+            [ring.middleware.defaults :refer [wrap-defaults api-defaults site-defaults]]
+            [compojure.core :refer [GET POST defroutes]]))
+(doc client/post)
+(doc +)
+(:require [compojure.core :refer :all]
+            [compojure.route :as route]
+            [ring.middleware.json :as rjson]
+            [clj-http.client :as client]
+            [clojure.data.json :as json]
+            [ring.middleware.defaults :refer [wrap-defaults api-defaults site-defaults]]
+            [compojure.core :refer [GET POST defroutes]])
+(:require (clj-http.client :as client))
+(doc get)

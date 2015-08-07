@@ -1,0 +1,164 @@
+@font-face {
+    font-family: skyFont;
+    src: url('fonts/Sky_Reg.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: skyFontBold;
+    src: url('fonts/Sky_Bold.ttf') format('truetype');
+}
+
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    background: #000;
+    font-family: skyFont,'OpenSansRegular', "Lucida Grande", Helvetica, Arial, sans-serif;
+    width: 100%;
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+.main-body{
+    height: 1080px;
+    width: 1920px;
+    margin: 0 auto;
+
+}
+
+.carousel {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.showreel-logo{
+    display: inline-block;
+    margin: 20px;
+    height: 20%;
+    width: 30%;
+    text-align: center;
+}
+
+.showreel-floating-logo{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: 20px;
+    height: 20%;
+    width: 30%;
+    text-align: center;
+}
+
+.showreel-floating-logo img{
+    height: auto;
+    max-width: 100%;
+}
+
+.showreel-logo img{
+    height: auto;
+    max-width: 100%;
+}
+
+.showreel-blurb {
+    width: 60%;
+    height: 40%;
+    display: inline-block;
+    font-size: 45px;
+    margin: 20px 50px;
+    margin-left: 0px;
+    text-align: justify;
+}
+
+.showreel-blurb span {
+    display: block;
+    height: 100%;
+    line-height: 1.5;
+    width: 100%;
+    overflow: hidden;
+    word-break: break-word;
+}
+
+.showreel-large-blurb{
+    width: 80%;
+    height: 40%;
+    display: block;
+    font-size: 45px;
+    margin: auto;
+    text-align: center;
+}
+
+.showreel-large-blurb span {
+    display: block;
+    height: 100%;
+    line-height: 1.5;
+    width: 100%;
+    overflow: hidden;
+    word-break: break-word;
+}
+
+.showreel-media-fullscreen{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.showreel-media-fullscreen img{
+    height: 100%;
+    max-width: 100%;
+}
+
+.showreel-media {
+    position: absolute;
+    bottom: 5%;
+    height: 50%;
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.showreel-media img{
+    height: 100%;
+    max-width: 100%;
+}
+
+.black{
+    background: #000;
+    color: #ffffff;
+}
+
+.white{
+    background: #fff;
+    color: #6e6e6e;
+}
+
+.light-grey{
+    background: #eeeeee;
+    color: #6E6E6E;
+}
+
+.dark-grey{
+    background: #909090;
+    color: #ffffff;
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+
+#content{
+    height: 100%;
+}
+
+.logo-text{
+    text-decoration: none;
+    font-size: 50px;
+    font-family: skyFontBold,'OpenSansRegular', "Lucida Grande", Helvetica, Arial, sans-serif;;
+}
